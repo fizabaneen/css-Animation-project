@@ -8,7 +8,7 @@ This project showcases my frontend development skills and creativity using HTML 
 
 - 🎨 Creative CSS animations
 - 💻 Clean and structured code
-- 🌈 Visual effects using CSS
+- 🌈 Visual effects using CSS  
 - 📱 A frontend development practice project
 - 🚀 A hands-on project to improve my HTML and CSS skills
 
